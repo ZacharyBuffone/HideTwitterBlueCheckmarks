@@ -8,7 +8,7 @@ This extension just removes the blue checkmarks on Twitter.
 
 Chrome really doesn't like installing extensions from outside the Chrome Web Store, so we have to do a work around.
 
-1. Download the HideTwitterBlueCheckmark_v1.zip and unzip somewhere.
+1. Download the latest release in the right column of this page and unzip the .zip somewhere.
 2. Open chrome and type "chrome://extensions" into the address bar.
 3. Click on the "Developer Mode" toggle on the top right of the page (if you haven't previously).
 4. Press the "Load uppacked" button on the top left of the page. Find where you unzipped the .zip previously and select it.
